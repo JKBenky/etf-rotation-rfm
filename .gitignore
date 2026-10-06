@@ -1,0 +1,20 @@
+# ===== 数据（不提交，见 data_source.md）=====
+data/
+*.xlsx
+myetf.csv
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.idea/
+.ipynb_checkpoints/
+*.egg-info/
+
+# ===== 报告（含个人身份信息，不提交）=====
+*.docx
+*.pdf
+
+# ===== 系统 / 临时 =====
+.DS_Store
+Thumbs.db
+*~
